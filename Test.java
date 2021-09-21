@@ -10,5 +10,7 @@ public class Test {
 
 		System.out.println("Hello from Sydney");
 
+		System.out.println("Hello from Kargil");
+
 	}
 }
