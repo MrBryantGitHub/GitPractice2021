@@ -10,8 +10,9 @@ public class Test {
 
 		System.out.println("Hello from Sydney");
 
-		for (int i; i < 4; i++){
-			System.out.println("HELLO WORLD");
+		//fixed error
+		for (int i = 0; i < 4; i++){
+			System.out.println("HELLO WORLD (from Jack)");
 		}
 
 	}
