@@ -11,5 +11,10 @@ public class Test {
 		System.out.println("Hello from Sydney");
 		System.out.println("Everdale > Hayday - Bene");
 
+		//fixed error
+		for (int i = 0; i < 4; i++){
+			System.out.println("HELLO WORLD (from Jack)");
+		}
+
 	}
 }
