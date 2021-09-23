@@ -16,8 +16,17 @@ public class Test {
 			System.out.println("HELLO WORLD (from Jack)");
 		}
 
+
 		System.out.println("Hello from Kargil");
 		String cole = "Cole";
+
+
+		printHelloName("Sydney");
+
+	}
+
+	public static void printHelloName(String s) {
+		System.out.print("Hello"+ s);
 
 	}
 }
