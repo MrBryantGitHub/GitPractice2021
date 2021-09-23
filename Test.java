@@ -25,6 +25,8 @@ public class Test {
 		//print("Kargils branch");
 		printHelloName("Kargil");
 
+		printHelloName("Mr. Bryant!");
+
 	}
 
 	public static void printHelloName(String s) {
