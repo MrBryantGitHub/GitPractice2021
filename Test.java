@@ -22,6 +22,7 @@ public class Test {
 
 
 		printHelloName("Sydney");
+		printHelloName("Cole");
 
 	}
 
