@@ -16,7 +16,11 @@ public class Test {
 			System.out.println("HELLO WORLD (from Jack)");
 		}
 
+<<<<<<< HEAD
 		System.out.println("Hello from Kargil");
+=======
+		String cole = "Cole";
+>>>>>>> cf6d7d5 (added a personal variable)
 
 	}
 }
